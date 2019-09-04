@@ -41,8 +41,8 @@ FMSScraper(continuous = False, images = True)
 
 ### Options
 
-1. Set ```python continuous = True``` to wait and continue scraping when all currently published reports have been scraped or set ```python continuous = False``` to stop the web scraping process when all currently published reports have been obtained. 
-2. Set ```python images = True``` to download all images posted in reports and updates. 
+1. Set ```continuous = True``` to wait and continue scraping when all currently published reports have been scraped or set ```continuous = False``` to stop the web scraping process when all currently published reports have been obtained. 
+2. Set ```images = True``` to download all images posted in reports and updates. 
 
 
 ### Citing This Package
