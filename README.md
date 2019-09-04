@@ -27,6 +27,12 @@ Whilst our best efforts have been made to ensure that the package is robust, as 
 #Import the Package
 import fms-scraper
 
+#Set the Working Directory either by
+     # (a) Using
+     import os
+     os.chdir(“PATHTOWD”)
+     # (b) Running the script through the command line
+
 #Call the Scraping Function
 FMSScraper(continuous = False, images = True)
 
@@ -40,5 +46,5 @@ FMSScraper(continuous = False, images = True)
 Please accredit this package by citing the following in your references. 
 
 ```
-@phdthesis{hammocks_2019, title={FixMyStreet Scraper Package}, author={Hammocks, Daniel}, year={2019}}
+@phdthesis{hammocks_2019, title={Horizon Scannong Through Automated Information Prioritisation}, author={Hammocks, Daniel}, year={2019}}
 ```
