@@ -22,6 +22,17 @@ Whilst our best efforts have been made to ensure that the package is robust, as 
 
 ## Usage
 
+```python
+
+#Import the Package
+import fms-scraper
+
+#Call the Scraping Function
+FMSScraper(continuous = False, images = True)
+
+
+```
+
 ### Running the WebScraper
 
 
