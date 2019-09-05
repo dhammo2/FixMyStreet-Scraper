@@ -34,7 +34,7 @@ import fms-scraper
      # (b) Running the script through the command line
 
 #Call the Scraping Function
-FMSScraper(continuous = False, images = True)
+ScrapeFMS(continuous = False, images = True)
 
 
 ```
