@@ -16,6 +16,7 @@ This code should be compatible with all websites website using the FixMyStreet p
 3. https://fixamingata.se/
 4. https://fixmystreet.ie/
 5. http://www.fiksgatami.no/
+6. https://fix.bromley.gov.uk/
 
 ## Requirements
 
