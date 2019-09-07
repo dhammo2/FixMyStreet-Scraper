@@ -18,6 +18,12 @@ This code should be compatible with all websites website using the FixMyStreet p
 5. http://www.fiksgatami.no/
 6. https://fix.bromley.gov.uk/
 7. https://fixmystreet.oxfordshire.gov.uk/
+8. https://fix.royalgreenwich.gov.uk/
+9. https://fix.bathnes.gov.uk/
+10. https://report.westminster.gov.uk/
+
+Coming soon...
+https://fixmystreet.brussels/
 
 ## Requirements
 
