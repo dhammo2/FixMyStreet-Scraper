@@ -51,7 +51,7 @@ import fms-scraper
      # (b) Running the script through the command line
 
 #Call the Scraping Function
-ScrapeFMS(continuous = False, images = True)
+ScrapeFMS(baseURL = 'https://...', continuous = False, images = True)
 
 
 ```
