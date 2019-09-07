@@ -8,6 +8,15 @@ Whilst our best efforts have been made to ensure that the package is robust, as 
 
 > **_DISCLAIMER:_** This code was developed for academic purposes. Using this software package may be a violation of the terms of use set out by FixMyStreet.com. By downloading and using this package you do so at your own legal risk.
 
+### Compatibility
+This code should be compatible with all websites website using the FixMyStreet platform. The following websites have been tested and confirmed compatible. 
+
+1. https://fixmystreet.com
+2. https://zueriwieneu.ch/
+3. https://fixamingata.se/
+4. https://fixmystreet.ie/
+5. http://www.fiksgatami.no/
+
 ## Requirements
 
 - Python 3
