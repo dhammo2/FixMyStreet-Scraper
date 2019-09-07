@@ -17,6 +17,7 @@ This code should be compatible with all websites website using the FixMyStreet p
 4. https://fixmystreet.ie/
 5. http://www.fiksgatami.no/
 6. https://fix.bromley.gov.uk/
+7. https://fixmystreet.oxfordshire.gov.uk/
 
 ## Requirements
 
